@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(223, 214, 184);
+    font: italic 11px Times New Roman, Times, serif;
+    font-weight:bold;
+    line-height: 1.5em;
+    text-align: center;
+}
+.red {
+    background-color: red;
+    font-size: 2em;
+    text-decoration: underline;
+}
+.noir {
+    background-color: black;
+}
+#blyat {
+    color: seagreen;
+}
+.txt-lime {
+    color: lime;
+    font-family: cursive;
+}
+.txt-yellow {
+    color: yellow;
+    font-family: cursive;
+}
